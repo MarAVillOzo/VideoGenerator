@@ -1,0 +1,5 @@
+gradio>=5.44,<7
+requests>=2.32
+psutil>=6.0
+huggingface_hub>=0.34
+pyyaml>=6.0
